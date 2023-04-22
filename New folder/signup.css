@@ -1,0 +1,23 @@
+*{
+    margin: 50px;
+    padding: 50px;
+    background: url(delivery.jpg);
+    background-size: contain;
+}
+.sign{
+    position: absolute;
+    top: 50%;
+    left: 77%;
+    transform: translate(-50%,-50%);
+    background: transparent;
+    color: azure;
+    border: none;
+    width: 200px;
+    height: 200px;
+    border-bottom: 4px green;
+    padding: 50px;
+    background: lightgreen;
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px black;
+    border-radius: 30px;
+}
