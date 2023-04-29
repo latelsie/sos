@@ -27,9 +27,10 @@ body{
 .icon{
     width: 150px;
 	margin-top: 0px;
-    float: left;
+    float: left; 
     height: 70px;
 	margin-left: 200px;
+
 }
 
 .logo{
@@ -61,7 +62,7 @@ ul li a{
 }
 
 ul li a:hover{
-    color: #ffee00;
+    color: #0d7e3c;
 }
 .v{
     display: flex;
@@ -70,10 +71,23 @@ ul li a:hover{
 }
 img{
 width: 20%;
+
+
+
+
 }
 .p{
     margin-left: 20px;
     margin-right: 500px;
+}
+.email{
+    visibility: hidden;
+}
+.password{
+    visibility: hidden;
+}
+.active{
+    visibility: visible;
 }
 
 
