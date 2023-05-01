@@ -24,7 +24,7 @@ a{
     font-size: 1rem;
 }
 a:hover{
-    color: rgba(46, 201, 59, 0.993);
+    color: rgba(35, 48, 35, 0.993);
 }
 header{
     position: relative;
@@ -115,7 +115,7 @@ section#hero{
     align-items: center;
     justify-content: center;
     text-align: center;
-    color: #0f4e09;
+    color: #161511;
     font-weight: bold;
 }
 
