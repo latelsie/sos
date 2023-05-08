@@ -1,0 +1,54 @@
+*{
+    margin: 5%;
+    padding: 5%;
+    padding-left: 0%;
+    padding-right: 20%;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+
+}
+
+body{
+    height: 100vh;
+    background-color: #000;
+    background-image: url("tona.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  table {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 2px solid #333;
+    text-align: left;
+  }
+  
+  th, td {
+    padding: 12px;
+  }
+  
+  th {
+    background-color: #333;
+    color: #0f0b0b;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  p {
+    margin-bottom: 20px;
+  }
+  
