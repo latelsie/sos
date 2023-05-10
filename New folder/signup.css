@@ -21,8 +21,8 @@ body{
 }
 .form input{
     border: none;
-    color: rgb(54, 71, 22);
-    background:rgb(54, 71, 22);
+    color: rgb(193, 211, 158);
+    background:rgb(103, 110, 85);
     width: 250px;
     height: 40px;
     padding-left: 10px;
@@ -32,7 +32,7 @@ body{
     margin-bottom: 20px;
 }
 .form input::placeholder{
-    color: rgb(102, 116, 53);
+    color: rgba(142, 163, 107, 0.63);
     font-weight: bolder;
 }
 .form input[type="submit"]{
